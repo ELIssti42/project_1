@@ -7,9 +7,10 @@
 4. Можно выйти обратна на главное окно, во время раунда с помощью "Меню".
 
 Для игры нужно устоновить:
-pip install pyqt6
-python -m venv venv
-venv\Spcripts\activate
+
+1. pip install pyqt6
+2. python -m venv venv
+3. venv\Spcripts\activate
 
 Как играть:
 1. В меню выберите категорию.
